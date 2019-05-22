@@ -1,5 +1,4 @@
 
-/* testing 123*/
 
 {{#shapes}}
 
@@ -7,7 +6,7 @@
 	width: {{width.outer}}px;
 	height: {{height.outer}}px;
 	background-image: url('/temp/sprite/css/{{{sprite}}}');
-	bacjground-position: {{position.relative.xy}};
+	background-position: {{position.relative.xy}};
 
 } 
 
